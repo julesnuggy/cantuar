@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 c7670e28291b4fbd320ecb224e19a00c21972134 julesnuggy <julesnuggy@gmail.com> 1523908480 +0100	commit (initial): first commit
+c7670e28291b4fbd320ecb224e19a00c21972134 c7670e28291b4fbd320ecb224e19a00c21972134 julesnuggy <julesnuggy@gmail.com> 1523950241 +0100	checkout: moving from master to rails_version
+c7670e28291b4fbd320ecb224e19a00c21972134 bef03dbea02eac4f51a60b56d5caf6cc24dcf557 julesnuggy <julesnuggy@gmail.com> 1523950251 +0100	commit: Initial Rails set up
+bef03dbea02eac4f51a60b56d5caf6cc24dcf557 584791a3c122e720504c170035af301e731b0543 julesnuggy <julesnuggy@gmail.com> 1524075199 +0100	commit: Basic CRUD functionalities working
+584791a3c122e720504c170035af301e731b0543 649d560ee0a741f118ba0765c0aa9e68b468521f julesnuggy <julesnuggy@gmail.com> 1524075355 +0100	commit: Tests passing
+649d560ee0a741f118ba0765c0aa9e68b468521f 5248070e6a2bd7ec8f1237b75efb4d9c91cbb7c3 julesnuggy <julesnuggy@gmail.com> 1524836312 +0100	commit: Renamed flashcard model
+5248070e6a2bd7ec8f1237b75efb4d9c91cbb7c3 23ef14aa021ebbddca4e4505afcd98379dfd8400 julesnuggy <julesnuggy@gmail.com> 1524841517 +0100	commit: Added Note column and created partial for displaying cards
+23ef14aa021ebbddca4e4505afcd98379dfd8400 cd9cb15535ba7034bc391ee8e13d8eef2bb9e58c julesnuggy <julesnuggy@gmail.com> 1524843971 +0100	commit: Improved format of display in _show_card
+cd9cb15535ba7034bc391ee8e13d8eef2bb9e58c 21cea7f797651083ba28fec9bf042a6a48a37728 julesnuggy <julesnuggy@gmail.com> 1524845650 +0100	commit: Fixed Flashcards tests
+21cea7f797651083ba28fec9bf042a6a48a37728 21cea7f797651083ba28fec9bf042a6a48a37728 julesnuggy <julesnuggy@gmail.com> 1524854504 +0100	reset: moving to HEAD
+21cea7f797651083ba28fec9bf042a6a48a37728 21cea7f797651083ba28fec9bf042a6a48a37728 julesnuggy <julesnuggy@gmail.com> 1524903135 +0100	reset: moving to HEAD
+21cea7f797651083ba28fec9bf042a6a48a37728 0046678146292aa7ff405554d33c4605dc0e63d2 julesnuggy <julesnuggy@gmail.com> 1524908358 +0100	commit: Made practice#show page - tests still RED
+0046678146292aa7ff405554d33c4605dc0e63d2 6072ad1a042207d9c8ec0ad1c38abacee93833b3 julesnuggy <julesnuggy@gmail.com> 1524936855 +0100	commit: RED - not redirecting to SHOW
+6072ad1a042207d9c8ec0ad1c38abacee93833b3 18a9eb1a1cc3784e0a91ba1da4a5ee8292abdea5 julesnuggy <julesnuggy@gmail.com> 1524943069 +0100	commit: GREEN - implemented single random translation session
